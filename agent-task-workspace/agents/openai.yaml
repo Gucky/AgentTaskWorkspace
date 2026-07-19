@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Task Workspace"
+  short_description: "Document task and ticket context"
+  default_prompt: "Use $agent-task-workspace to document this task or ticket, including rationale, changes, outcome, and related commits."
+  icon_small: "./assets/agent-task-workspace.png"
+  icon_large: "./assets/agent-task-workspace.png"
